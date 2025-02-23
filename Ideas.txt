@@ -1,0 +1,7 @@
+Preparar un programa que:
+
+Ejecute un e.exe que devuelva el valor de la password
+
+Conecte con el protgres
+
+Se importe en todas partes y no quede en ningún sitio rastro de cómo se hace la conexión con la base de datos.
